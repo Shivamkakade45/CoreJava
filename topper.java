@@ -1,3 +1,4 @@
+//write a program to calculate percentage of given sub in cbse boatd exam his marks from 5 sub must be taken as input from the users.
 
 import java.util.*;
 public class topper {
