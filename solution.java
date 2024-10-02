@@ -1,3 +1,5 @@
+//there are three lines of input and each line contains a single integer.
+
 import java.util.*;
 
 public class solution {
