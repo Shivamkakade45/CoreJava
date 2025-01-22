@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class CheskTringe
+public class CheckTriangle
 {
 
 
