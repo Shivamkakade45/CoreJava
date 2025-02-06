@@ -1,4 +1,4 @@
-//Write a C program to find total number of notes in given amount. How to write a C program to print total number 
+//Write a java program to find total number of notes in given amount. How to write a C program to print total number 
 //		of notes in given amount. C program to print total number of notes in given amount.
 		
 //		Enter the amount: 2528
