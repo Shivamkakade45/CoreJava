@@ -1,4 +1,4 @@
-//Write a c program to check whether triangle is equilateral, isoscale or scalene.
+//Write a java program to check whether triangle is equilateral, isoscale or scalene.
 
 import java.util.*;
 
