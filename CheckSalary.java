@@ -1,4 +1,4 @@
-//Write a C program to input basic salary of an employee and calculate its Gross salary according to following:
+//Write a java program to input basic salary of an employee and calculate its Gross salary according to following:
 
 //Basic Salary angle= 10000 : HRA = 20%, DA = 80%
 
