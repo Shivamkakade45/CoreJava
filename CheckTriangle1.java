@@ -1,4 +1,4 @@
-//.Write a c program check whether number is positive, negative or zero.
+//.Write a java program check whether number is positive, negative or zero.
 
 import java.util.*;
 
