@@ -1,4 +1,4 @@
-// Write a C program to input marks of five subjects Physics, Chemistry, Biology.
+// Write a java program to input marks of five subjects Physics, Chemistry, Biology.
 
 //Mathematics and Computer, calculate percentage and grade according to given conditions:
 
